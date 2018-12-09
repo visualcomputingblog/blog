@@ -9,5 +9,5 @@
 - [ ] Training Competitive Binary Neural Networks from Scratch
 - [ ] Virtual Class Enhanced Discriminative Embedding
 Learning
- 
-对本系列文章有兴趣的同学欢迎关注微信公众号![qrcode](qrcode.jpg)
+
+对本系列文章有兴趣的同学欢迎关注微信公众号![qrcode](https://github.com/visualcomputingblog/blog/blob/master/qrcode.jpg)
