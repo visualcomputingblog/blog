@@ -10,4 +10,6 @@
 - [ ] Virtual Class Enhanced Discriminative Embedding
 Learning
 
-对本系列文章有兴趣的同学欢迎关注微信公众号![qrcode](https://github.com/visualcomputingblog/blog/blob/master/qrcode.jpg)
+对本系列文章有兴趣的同学欢迎关注微信公众号
+
+![qrcode](https://github.com/visualcomputingblog/blog/blob/master/qrcode.jpg)
